@@ -23,6 +23,10 @@ Output:
 
 ## Program:
 ~~~
+NAME:V.A.JITHENDRA
+REG.NO:212221230043
+~~~
+~~~
 import numpy as np
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
